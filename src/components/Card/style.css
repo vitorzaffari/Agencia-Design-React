@@ -1,0 +1,24 @@
+#card{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 30px;
+    border: 1px solid rgb(235, 235, 235);
+    min-height: 30vh;
+    width: 32%;
+    transition: background-color 0.2s ease-out 100ms;
+    border: 1px solid rgb(94, 94, 94);
+}
+
+#card:hover{
+    background-color: #ffbd43;
+}
+
+#card p{
+    color: #9F9F9F;
+}
+
+@media (max-width:768px){
+    #card{width: 100%;}
+}
+
