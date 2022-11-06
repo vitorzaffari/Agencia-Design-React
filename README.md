@@ -11,4 +11,4 @@ A aplicação também é responsiva para diferentes tamanhos de tela.
 <br><br>
 <img width=500 src="/public/assets/to_readme/responsividade.gif">
 <br><br>
-<p font-size=5 ><em>Obs.: Esse projeto faz parte do plano de estudos da plataforma DevMedia.</em></p>
+<p font-size=1 ><em>Obs.: Esse projeto faz parte do plano de estudos da plataforma DevMedia.</em></p>
