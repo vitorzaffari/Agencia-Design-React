@@ -10,4 +10,5 @@ A função responsável pela funcionalidade foi criada no arquivo <em>'App.js'</
 A aplicação também é responsiva para diferentes tamanhos de tela. 
 <br><br>
 <img width=500 src="/public/assets/to_readme/responsividade.gif">
-
+<br><br>
+###Obs.: Esse projeto faz parte do plano de estudos da plataforma DevMedia
