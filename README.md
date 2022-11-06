@@ -1,4 +1,4 @@
-<h1>Agência de Design <strong>(React)</strong><h1><br>
+<h1>Agência de Design (React)<h1><br>
 Projeto criado utilizando conhecimentos adquiridos nos últimos repositórios <em>(i.e., props, statehook)</em> para alterar a paleta de cores do site ao clicar no botão do cabeçalho.
 <br><br>
 <img width=500 src="/public/assets/to_readme/modo-escuro.gif">
