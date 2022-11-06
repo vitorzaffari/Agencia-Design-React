@@ -1,4 +1,4 @@
 # Agencia-Design-React
 Projeto criado utilizando conhecimentos adquiridos nos últimos repositórios <em>(i.e., props, statehook)</em>.<br>
 
-<img src='to_readme/modo-escuro.gif'>
+<img src="to_readme/modo-escuro.gif">
